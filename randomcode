@@ -1,0 +1,20 @@
+<html>
+    <!--this is the code to the turoing section-->
+    <div class="icon"><i class="fas fa-chalkboard-teacher"></i></div>
+        <h3 style="color: #0096ff; text-align: center; text-decoration:underline red;">Tutoring</h3><br>
+        <p>For tutoring services, we provide qualified tutors for the academic excellence of our members, we use
+            teaching techniques and methods
+            suitable for each individual considering that one student's educational needs is different to the next </p>
+        <br>
+        <p style="text-align: center;">
+            <button><a href="#section5" style="text-decoration: none;color: #0096ff;">Learn more</a></button>
+        </p>
+
+        <!--this is the get started block-->
+        <div class="container" id="section5" style="text-align: center; background-color: skyblue;">
+            <h1 style="text-align: center; color: white;">Get Started</h1> <br>
+            <p>Before you get started learn a bit more about who we are and what we do <br>
+                Click down here <i class="fas fa-arrow-down fa-2x"></i></p> <br>
+            <div class="button-two" style="padding-bottom: 20px;"><a href="moreinfo.html">Here we go!</a></div>
+        </div>
+</html>
